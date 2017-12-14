@@ -1,5 +1,6 @@
 import telebot
-from telebot import types, logging
+import logging
+from telebot import types
 import requests
 
 bot = telebot.TeleBot("418894977:AAFzUHXYKVlG6Vt1OIg26r4XL2KH5_p2tdk")
