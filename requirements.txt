@@ -11,7 +11,6 @@ HTMLParser==0.0.2
 idna==2.6
 Js2Py==0.50
 krakenex==1.0.0
-logger==1.4
 multidict==3.2.0
 pybitcointools==1.1.15
 pyjsparser==2.5.2
